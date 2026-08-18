@@ -48,7 +48,7 @@ fortisec = "fortisec.cli:main"
 
 [project.optional-dependencies]
 dev = [
-  "black>=24.0",
+  "black>=24.0,<25.0",
   "build>=1.2",
   "mypy>=1.10",
   "pytest>=8.0",
