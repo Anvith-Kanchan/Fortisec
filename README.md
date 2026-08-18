@@ -1,6 +1,6 @@
 # fortisec
 
-[![Tests](https://github.com/your-username/fortisec/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/fortisec/actions/workflows/ci.yml)
+
 [![PyPI](https://img.shields.io/pypi/v/fortisec.svg)](https://pypi.org/project/fortisec/)
 [![Python](https://img.shields.io/pypi/pyversions/fortisec.svg)](https://pypi.org/project/fortisec/)
 [![Downloads](https://static.pepy.tech/badge/fortisec/month)](https://pepy.tech/project/fortisec)
